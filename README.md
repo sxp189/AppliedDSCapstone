@@ -1,3 +1,3 @@
-# DSCapstoneTestRepo
-## Applied Data Science Capstone > Module 1 > Github exercise
-It's a markdown file in this repository.
+# Applied Data Science Capstone Project
+## Project Description
+This repository is a collection of .ipynb that I've completed from each module of the IBM's Applied Data Science Capstone course on coursera.org.
